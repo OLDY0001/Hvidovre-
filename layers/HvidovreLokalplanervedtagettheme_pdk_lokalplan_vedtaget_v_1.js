@@ -1,0 +1,1 @@
+var json_HvidovreLokalplanervedtagettheme_pdk_lokalplan_vedtaget_v_1 = {"type":"FeatureCollection","name":"HvidovreLokalplanervedtagettheme_pdk_lokalplan_vedtaget_v_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
